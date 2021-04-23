@@ -7,7 +7,7 @@ A [Nuxt.js](https://github.com/nuxt/nuxt.js) + [Vuetify.js](https://github.com/v
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init vuetifyjs/nuxt my-project  
+$ vue init coin-universe/nuxt my-project  
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
